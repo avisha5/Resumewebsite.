@@ -27,11 +27,11 @@ body {
 }
 
 .section.mid {
-  height: 80vh;
+  height: 75vh;
 }
 
 .section.tall {
-  height: 100vh;
+  height: 80vh;
 }
 
 .overlay {
